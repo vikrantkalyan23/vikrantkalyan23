@@ -69,35 +69,6 @@ Python • NumPy • Pandas • Machine Learning • Generative AI
 
 ✅ End-to-End Software Delivery
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)]()
 
 ---
 
@@ -106,8 +77,6 @@ Python • NumPy • Pandas • Machine Learning • Generative AI
 🌐 Portfolio: https://www.vikrantkalyan.com
 
 💼 LinkedIn: https://linkedin.com/in/vikrant-kalyan
-
-📧 Email: your-email@example.com
 
 ---
 
