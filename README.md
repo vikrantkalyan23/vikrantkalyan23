@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikrant Kalyan</h1>
 
 <h3 align="center">
-Software Engineer • Solution Architect • AI Engineering Enthusiast
+Software Engineer • Full stack engineer • AI Engineering Enthusiast
 </h3>
 
 <p align="center">
